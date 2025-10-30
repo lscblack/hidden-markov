@@ -66,5 +66,3 @@ The HMM model successfully recognized human activities with an **overall accurac
 
 ---
 
-
-Would you like me to add a short “How to Run the Code” section (like setup and steps) too? It’s optional but looks great in reports and GitHub.
