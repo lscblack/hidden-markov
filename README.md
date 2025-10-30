@@ -16,8 +16,25 @@ We collected our **own sensor data** using the **Sensor Logger app**, ensuring e
 * **Sampling rate:** 50–100 Hz
 * **Activities:** Jumping, Running, Standing, Walking
 * **Each student** contributed their own activity samples
+---
 
 ---
+## **Project Structure**
+
+📂 Human_Activity_Recognition_HMM
+
+├── 📁 data/# Raw CSV files collected from sensors
+
+├── 📁 dataset/       # Cleaned and combined datasets per activity
+
+├── 📁 notebook/      # Jupyter notebook 
+
+│
+└── README.md    #README file
+
+---
+
+
 
 ## **Model**
 
@@ -34,7 +51,7 @@ We trained and tested a **Hidden Markov Model (HMM)** to classify activities bas
 | Standing         | 24                | 1.0000      | 0.8553      | 0.89             |
 | Walking          | 17                | 1.0000      | 0.9639      | 0.97             |
 
-**Overall Accuracy:** 0.8299
+**Overall Accuracy:** 0.8475
 
 | Metric               | Precision | Recall | F1-Score | Support |
 | -------------------- | --------- | ------ | -------- | ------- |
@@ -62,7 +79,6 @@ Collaboration helped improve the dataset balance and model accuracy.
 
 ## **Conclusion**
 
-The HMM model successfully recognized human activities with an **overall accuracy of about 83%**. Despite challenges with noisy or incomplete sensor data, the project demonstrates that HMMs can effectively classify basic human motions using smartphone sensors.
+The HMM model successfully recognized human activities with an **overall accuracy of about 85%**. Despite challenges with noisy or incomplete sensor data, the project demonstrates that HMMs can effectively classify basic human motions using smartphone sensors.
 
 ---
-
