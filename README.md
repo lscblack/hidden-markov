@@ -70,12 +70,17 @@ We had to **re-record some activities** to improve the dataset quality and ensur
 
 ---
 
-## **Teamwork**
+##  Collaboration and GitHub Contribution
 
-This project was completed as a **group effort**. Each member participated in recording, preprocessing, and analyzing specific activities.
-Collaboration helped improve the dataset balance and model accuracy.
+This project was completed as a **group effort**.We both contributed equally to all stages of the project, with approximately **50% effort each**. Together, we recorded accelerometer and gyroscope data for all four activities using the Sensor Logger app, ensuring that our samples were consistent and well-labeled before analysis.
 
----
+### Our Main Roles
+
+- **We both:** participated in data recording, labeling, and validation to ensure reliable input for the model.  
+- **Nelly Iyabikoze:** focused on data cleaning, preprocessing, and dataset organization. She also contributed to report writing, especially in the background, motivation, and data description sections, and helped verify the accuracy of the model results and visualizations.  
+- **Loue Sauveur Christian:** focused on feature extraction, HMM model implementation, and evaluation. He developed the training and testing scripts, created visualizations (confusion matrix and transition heatmap), and contributed to interpreting the model outputs.  
+
+Overall, we worked collaboratively throughout the project, supported each other’s tasks, and maintained balanced contributions in both coding and documentation.
 
 ## **Conclusion**
 
