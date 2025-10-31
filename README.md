@@ -76,9 +76,11 @@ This project was completed as a **group effort**.We both contributed equally to 
 
 ### Our Main Roles
 
-- **We both:** participated in data recording, labeling, and validation to ensure reliable input for the model.  
-- **Nelly Iyabikoze:** focused on data cleaning, preprocessing, and dataset organization. She also contributed to report writing, especially in the background, motivation, and data description sections, and helped verify the accuracy of the model results and visualizations.  
-- **Loue Sauveur Christian:** focused on feature extraction, HMM model implementation, and evaluation. He developed the training and testing scripts, created visualizations (confusion matrix and transition heatmap), and contributed to interpreting the model outputs.  
+| **Member** | **Main Roles & Contributions** |
+|-------------|--------------------------------|
+| **Both** | Participated in data recording, labeling, and validation to ensure reliable input for the model. |
+| **Nelly Iyabikoze** | Focused on data cleaning, preprocessing, and dataset organization. Contributed to report writing (background, motivation, and data description) and helped verify the accuracy of model results and visualizations. |
+| **Loue Sauveur Christian** | Focused on feature extraction, HMM model implementation, and evaluation. Developed training and testing scripts, created visualizations (confusion matrix and transition heatmap), and contributed to interpreting model outputs. |
 
 Overall, we worked collaboratively throughout the project, supported each other’s tasks, and maintained balanced contributions in both coding and documentation.
 
